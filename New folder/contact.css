@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Open+Sans:wght@300&family=Sedgwick+Ave&family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header{
+    
+    background-color: rgb(0, 3, 6);
+  }
+ .name{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+     
+ }
+
+ .name a{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+    text-decoration:none ;
+     color:aliceblue;
+     font-family: 'Sedgwick Ave';
+     font-size: x-large;
+     margin-left: 39px;
+     padding-block: 10px;
+     font-weight:1500   ;
+ }
+ .name a:hover{
+     font-weight: bold;
+ }
+  nav ul{
+    height:58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 947px;
+    
+  }
+  
+  nav ul li{
+     
+      list-style: none;
+      padding: 0 20px;
+  }
+
+  nav ul li a{
+      color:aliceblue;
+      text-decoration: none;
+      font-family: 'Inter';
+  }
+  nav ul li a:hover{
+    font-weight: bold;
+}
+
+  nav{
+      display: flex;
+      position: sticky;
+  } */
+    .name{
+        position:absolute;
+        text-align: center;
+        margin-left: 5vw;
+        margin-top: 2vh;
+        
+      }
+
+    .name a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Sedgwick Ave';
+        font-size: 4vh;
+    }
+
+    .name a:hover{
+        font-weight: bolder;
+    }
+  .container img{
+      display:flex;
+      height: 100vh;
+      width:100vw;
+      margin: none;
+  }
+
+  .class{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
+
+    .container{
+        position: relative;
+        /* width: 100vw; */
+        /* height: 100vh; */
+    }
+
+
+
+    .op1{
+        position:absolute;
+        text-align: center;
+        margin-left: 67vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op1 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op1 a:hover{
+        font-weight: bolder;
+    }
+
+    .op2{
+        position:absolute;
+        text-align: center;
+        margin-left: 74vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op2 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op2 a:hover{
+        font-weight: bolder;
+    }
+
+    .op3{
+        position:absolute;
+        text-align: center;
+        margin-left: 82vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op3 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op3 a:hover{
+        font-weight: bolder;
+    }
+
+    .op4{
+        position:absolute;
+        text-align: center;
+        margin-left: 89vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op4 a{
+        position:fixed;
+        text-decoration: underline;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+        font-weight: bolder;
+    }
+
+    /* .op4 a:hover{
+        font-weight: bolder;
+    } */
+
+    .instaicon{
+        position:absolute;
+        margin-top: 40vh;
+        margin-left: 35vw;
+    }
+
+    .instaicon img{
+        width: 3vw;
+        height: 6vh;
+    }
+
+    .instatext{
+        position: absolute;
+       margin-top: 40.5vh;
+       margin-left: 39vw;
+    }
+
+    .instatext a{
+        position: absolute;
+        color: aliceblue;
+        text-decoration: none;
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 4vh;
+        
+    }
+
+    .instatext a:hover{
+        font-weight: bolder;
+    }
+
+    .waicon{
+        position:absolute;
+        margin-top: 55vh;
+        margin-left: 35vw;
+    }
+
+    .waicon img{
+        width: 3vw;
+        height: 6vh;
+    }
+
+
+    .watext{
+        position: absolute;
+       margin-top: 55.5vh;
+       margin-left: 39vw;
+    }
+
+    .watext {
+        position: absolute;
+        color: aliceblue;
+        text-decoration: none;
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 2vh;
+        
+    }
+
+    .gmailicon{
+        position:absolute;
+        margin-top: 71vh;
+        margin-left: 35vw;
+    }
+
+    .gmailicon img{
+        width: 3vw;
+        height: 5vh;
+    }
+
+
+    .gmailtext{
+        position: absolute;
+       margin-top: 70.5vh;
+       margin-left: 39vw;
+    }
+
+    .gmailtext {
+        position: absolute;
+        color: aliceblue;
+        text-decoration: none;
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 2vh;
+        
+    }
+
+    .heading{
+        position:absolute;
+        color: aliceblue;
+        margin-top: 17vh;
+        margin-left: 39vw;
+        font-family: 'Acme', sans-serif;
+        font-size: 5vh;
+    }

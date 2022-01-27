@@ -1,0 +1,208 @@
+@media screen and (max-width:1300px) {
+
+    .pic{
+        position:absolute;
+        /* margin-top: 0.1vh;
+        margin-left: 1vw; */
+    }
+
+    .pic img{
+        margin-top: 20vh;
+        margin-left: 44vw;
+        width: 20vw;
+        height:30vh;
+    }
+
+    .heading{
+        position:absolute;
+        margin-top: 55vh;
+        margin-left: 25vw;
+    }
+
+    .para{
+        position: absolute;
+        margin-top: 63vh;
+        margin-left: 30vw;
+        margin-bottom: 30vh;
+        margin-right: 25vw;
+    }
+
+    .but1{
+        position: absolute;
+        margin-top: 90vh;
+        margin-left: 35vw;
+    }
+
+    .but2{
+        position: absolute;
+        margin-top: 90vh;
+        margin-left: 55vw;
+    }
+    
+}
+
+@media screen and (max-width:500px) {
+
+    .pic{
+        position:absolute;
+        /* margin-top: 0.1vh;
+        margin-left: 1vw; */
+    }
+
+    .pic img{
+        margin-top: 20vh;
+        margin-left: 33vw;
+        width: 40vw;
+        height: 20vh;
+    }
+
+    .heading{
+        position:absolute;
+        margin-top: 45vh;
+        margin-left: 5vw;
+        margin-bottom: 90vh;
+        font-size: 3vh;
+    }
+
+    .para{
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 55vh;
+        margin-left: 20vw;
+        /* margin-bottom: 20vh; */
+        margin-right: 15vw;
+        font-size: 1.8vh;
+    }
+
+    .but1{
+        position: absolute;
+        
+        margin-top: 85vh;
+        margin-left: 10vw;
+    }
+
+    .but1 a{
+        height: 5vh;
+        width: 30vw;
+        font-size: 1.7vh;
+        text-align: center;
+    }
+
+    .but2{
+        
+        position: absolute;
+        margin-top: 85vh;
+        margin-left: 65vw;
+    }
+
+    .but2 a{
+        height: 5vh;
+        width: 25vw;   
+        font-size: 1.6vh;
+    }
+
+    .op1{
+        margin-top: 12vh;
+        margin-left: 3vw;
+    }
+
+    .op2{
+        margin-top: 12vh;
+        margin-left: 27vw;
+    }
+
+    .op3{
+        margin-top: 12vh;
+        margin-left: 57vw;
+    }
+
+    .op4{
+        margin-top: 12vh;
+        margin-left: 77vw;
+    }
+    
+}
+
+@media screen and (max-width:900px) {
+
+    .pic{
+        position:absolute;
+        /* margin-top: 0.1vh;
+        margin-left: 1vw; */
+    }
+
+    .pic img{
+        margin-top: 20vh;
+        margin-left: 33vw;
+        width: 40vw;
+        height: 20vh;
+    }
+
+    .heading{
+        position:absolute;
+        margin-top: 45vh;
+        margin-left: 5vw;
+        margin-bottom: 90vh;
+        font-size: 3vh;
+    }
+
+    .para{
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 55vh;
+        margin-left: 20vw;
+        /* margin-bottom: 20vh; */
+        margin-right: 15vw;
+        font-size: 1.8vh;
+    }
+
+    .but1{
+        position: absolute;
+        
+        margin-top: 85vh;
+        margin-left: 10vw;
+    }
+
+    .but1 a{
+        height: 5vh;
+        width: 30vw;
+        font-size: 1.7vh;
+        text-align: center;
+    }
+
+    .but2{
+        
+        position: absolute;
+        margin-top: 85vh;
+        margin-left: 65vw;
+    }
+
+    .but2 a{
+        height: 5vh;
+        width: 25vw;   
+        font-size: 1.6vh;
+    }
+
+    .op1{
+        margin-top: 12vh;
+        margin-left: 3vw;
+    }
+
+    .op2{
+        margin-top: 12vh;
+        margin-left: 27vw;
+    }
+
+    .op3{
+        margin-top: 12vh;
+        margin-left: 57vw;
+    }
+
+    .op4{
+        margin-top: 12vh;
+        margin-left: 77vw;
+    }
+    
+}

@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&family=Signika:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header{
+    
+    background-color: rgb(0, 3, 6);
+  }
+ .name{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+     
+ }
+
+ .name a{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+    text-decoration:none ;
+     color:aliceblue;
+     font-family: 'Sedgwick Ave';
+     font-size: x-large;
+     margin-left: 39px;
+     padding-block: 10px;
+     font-weight:1500   ;
+ }
+ .name a:hover{
+     font-weight: bold;
+ }
+  nav ul{
+    height:58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 947px;
+    
+  }
+  
+  nav ul li{
+     
+      list-style: none;
+      padding: 0 20px;
+  }
+
+  nav ul li a{
+      color:aliceblue;
+      text-decoration: none;
+      font-family: 'Inter';
+  }
+  nav ul li a:hover{
+    font-weight: bold;
+}
+
+  nav{
+      display: flex;
+      position: sticky;
+  } */
+
+    .re{
+        display:flex;
+        flex-wrap: wrap;
+    }
+
+    
+    .name{
+        position:absolute;
+        text-align: center;
+        margin-left: 5vw;
+        margin-top: 2vh;
+        
+      }
+
+    .name a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Sedgwick Ave';
+        font-size: 4vh;
+    }
+
+    .name a:hover{
+        font-weight: bolder;
+    }
+  .container img{
+      display:flex;
+      height: 100vh;
+      width:100vw;
+      margin: none;
+  }
+
+  .class{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
+
+    .container{
+        position: relative;
+        /* width: 100vw; */
+        /* height: 100vh; */
+    }
+    .heading{
+        position:absolute;
+        text-align: center;
+        color: aliceblue;
+        margin-top: 30vh;
+        font-family: 'Acme', sans-serif;
+        margin-left: 4vw;
+        font-size: 6vh;
+    }
+
+
+    .para{
+        position:absolute;
+        text-align: center;
+        color: aliceblue;
+        margin-top: 40vh;
+        margin-left: 6vw;
+        margin-right: 43vw;
+        font-size: 3vh;
+        font-family: 'Signika';
+        /* font-weight: 300; */
+    }
+
+    .pic img{
+        position:absolute;
+        margin-left: 75vw;
+        margin-top: 30vh;
+        width: 19vw;
+        height: 38vh;
+        border-radius: 1vw;
+    }
+    .but1{
+        /* display: flex; */
+        position: absolute;
+        text-align: center;
+        margin-top: 65vh;
+        margin-left: 10vw;
+        background-color: #1db31d;
+        color: aliceblue;
+        
+        
+        border-radius: 5px;
+    }
+
+    .but1 a{
+        height: 5vh;
+        width: 16vw;
+        display: flex;
+        justify-content: center;
+        color: aliceblue;
+        margin-top: 15px;
+        text-decoration: none;
+        font-family: 'Inter';
+        font-weight: bolder;
+        font-size: 2.45vh;
+    }
+
+    .but1:hover{
+        font-weight: bolder;
+        background-color: #064e06;
+    }
+
+
+    .but2{
+        /* display: flex; */
+        position: absolute;
+        text-align: center;
+        margin-top: 65vh;
+        margin-left: 35vw;
+        background-color: #1db31d;
+        color: aliceblue;
+        
+        
+        border-radius: 5px;
+    }
+
+    .but2 a{
+        height: 5vh;
+        width: 16vw;
+        display: flex;
+        justify-content: center;
+        color: aliceblue;
+        margin-top: 15px;
+        text-decoration: none;
+        font-family: 'Inter';
+        font-weight: bolder;
+        font-size: 2.45vh;
+    }
+
+    .but2:hover{
+        font-weight: bolder;
+        background-color: #064e06;
+    }
+
+
+    .op1{
+        position:absolute;
+        text-align: center;
+        margin-left: 67vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op1 a{
+        position:fixed;
+        text-decoration:underline;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+        font-weight: bolder;
+        
+    }
+
+    /* .op1 a:hover{
+        font-weight: bolder;
+    } */
+
+    .op2{
+        position:absolute;
+        text-align: center;
+        margin-left: 74vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op2 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op2 a:hover{
+        font-weight: bolder;
+    }
+
+    .op3{
+        position:absolute;
+        text-align: center;
+        margin-left: 82.5vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op3 a{
+        
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op3 a:hover{
+        font-weight: bolder;
+    }
+
+    .op4{
+        position:absolute;
+        text-align: center;
+        margin-left: 89vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op4 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op4 a:hover{
+        font-weight: bolder;
+    }
+
+
+
+  
+
+  

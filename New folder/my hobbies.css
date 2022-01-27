@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Sedgwick+Ave&family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Anton&family=Inter:wght@100&family=Lobster&family=Open+Sans:wght@300&family=Sedgwick+Ave&family=Signika:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header{
+    
+    background-color: rgb(0, 3, 6);
+  }
+ .name{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+     
+ }
+
+ .name a{
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+    text-decoration:none ;
+     color:aliceblue;
+     font-family: 'Sedgwick Ave';
+     font-size: x-large;
+     margin-left: 39px;
+     padding-block: 10px;
+     font-weight:1500   ;
+ }
+ .name a:hover{
+     font-weight: bold;
+ }
+  nav ul{
+    height:58px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 947px;
+    
+  }
+  
+  nav ul li{
+     
+      list-style: none;
+      padding: 0 20px;
+  }
+
+  nav ul li a{
+      color:aliceblue;
+      text-decoration: none;
+      font-family: 'Inter';
+  }
+  nav ul li a:hover{
+    font-weight: bold;
+}
+
+  nav{
+      display: flex;
+      position: sticky;
+  } */
+    .name{
+        position:absolute;
+        text-align: center;
+        margin-left: 5vw;
+        margin-top: 2vh;
+        
+      }
+
+    .name a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Sedgwick Ave';
+        font-size: 4vh;
+    }
+
+    .name a:hover{
+        font-weight: bolder;
+    }
+  .container img{
+      display:flex;
+      height: 100vh;
+      width:100vw;
+      margin: none;
+  }
+
+  .class{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      
+  }
+
+    .container{
+        position: relative;
+        /* width: 100vw; */
+        /* height: 100vh; */
+    }
+
+
+
+    .op1{
+        position:absolute;
+        text-align: center;
+        margin-left: 67vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op1 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op1 a:hover{
+        font-weight: bolder;
+    }
+
+    .op2{
+        position:absolute;
+        text-align: center;
+        margin-left: 74vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op2 a{
+        position:fixed;
+        text-decoration: underline;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+        font-weight: bolder;
+    }
+
+    /* .op2 a:hover{
+        font-weight: bolder;
+    } */
+
+    .op3{
+        position:absolute;
+        text-align: center;
+        margin-left: 82vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op3 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op3 a:hover{
+        font-weight: bolder;
+    }
+
+    .op4{
+        position:absolute;
+        text-align: center;
+        margin-left: 89vw;
+        margin-top: 2vh;
+        
+      }
+
+    .op4 a{
+        position:fixed;
+        text-decoration: none;
+        color: aliceblue;   
+        font-family: 'Inter';
+        font-size: 2.7vh;
+    }
+
+    .op4 a:hover{
+        font-weight: bolder;
+    }
+
+    .heading{
+        position:absolute;
+        color: aliceblue;
+        margin-top: 23vh;
+        margin-left: 41vw;
+        font-family: 'Acme', sans-serif;
+        font-size: 4vh;
+    }
+
+    .codingicon img{
+        position:absolute;
+        width: 6vw;
+        height: 12vh;
+        margin-top: 50vh;
+        margin-left: 15.5vw;
+    }
+
+    .codingtext{
+        position:absolute;
+        margin-top: 63vh;
+        margin-left: 16vw;
+        font-family: 'Merriweather Sans', sans-serif;
+        color: aliceblue;
+        font-size: 2vh;
+    }
+
+    .singicon img{
+        position:absolute;
+        width: 6vw;
+        height: 12vh;
+        margin-top: 50vh;
+        margin-left: 36.5vw;
+    }
+
+    .singtext{
+        position:absolute;
+        margin-top: 63vh;
+        margin-left: 36.5vw;
+        font-family: 'Merriweather Sans', sans-serif;
+        color: aliceblue;
+        font-size: 2vh;
+    }
+
+    .gamingicon img{
+        position:absolute;
+        width: 6vw;
+        height: 12vh;
+        margin-top: 50vh;
+        margin-left: 57.5vw;
+    }
+
+    .gamingtext{
+        position:absolute;
+        margin-top: 63vh;
+        margin-left: 57.5vw;
+        font-family: 'Merriweather Sans', sans-serif;
+        color: aliceblue;
+        font-size: 2vh;
+    }
+
+    .musingicon img{
+        position:absolute;
+        width: 6vw;
+        height: 12vh;
+        margin-top: 50vh;
+        margin-left: 78vw;
+    }
+
+    .musingtext{
+        position:absolute;
+        margin-top: 63vh;
+        margin-left: 76vw;
+        font-family: 'Merriweather Sans', sans-serif;
+        color: aliceblue;
+        font-size: 2vh;
+    }
+
+    
+
+
+
+  
+
+  
