@@ -179,3 +179,94 @@
         font-size: 2vh;
     } */
 }
+
+@media screen and (max-width:1100px) {
+
+
+
+    .op1{
+        margin-top: 12vh;
+        margin-left: 3vw;
+    }
+
+    .op2{
+        margin-top: 12vh;
+        margin-left: 27vw;
+    }
+
+    .op3{
+        margin-top: 12vh;
+        margin-left: 57vw;
+    }
+
+    .op4{
+        margin-top: 12vh;
+        margin-left: 77vw;
+    }
+
+    .heading{
+        font-size: 3vh;
+        margin-left: 25vw;
+        margin-top: 25vh;
+    }
+
+    .instaicon img{
+        width: 12vw;
+        height: 7vh;
+        /* margin-left: 0vw; */
+    }
+
+    .instaicon{
+        margin-top: 40vh;
+        margin-left: 15vw;
+    }
+
+    .instatext a{
+        font-size: 3vh;
+        /* margin-left: 1vw;
+        margin-top: 1vh; */
+    }
+
+    .instatext{
+        margin-left: 30vw;
+        margin-top: 41vh;
+    }
+
+    .waicon img{
+        width: 12vw;
+        height: 7vh;
+        margin-left: 0vw;
+    }
+
+    .waicon{
+        margin-top: 60vh;
+        margin-left: 15vw;
+    }
+
+    .watext{
+        font-size: 1.6vh;
+        margin-left: 30vw;
+        margin-top: 61vh;
+    }
+
+    .gmailicon img{
+        width: 12vw;
+        height: 7vh;
+        margin-left: 0vw;
+    }
+
+    .gmailicon{
+        margin-top: 80vh;
+        margin-left: 15vw;
+    }
+
+    .gmailtext{
+        font-size: 1vh;
+        margin-left: 30vw;
+        margin-top: 82vh;
+    }
+
+    /* .watext a{
+        font-size: 2vh;
+    } */
+}

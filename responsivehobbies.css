@@ -155,3 +155,83 @@
     }
     
 }
+
+@media screen and (max-width:1100px) {
+
+
+
+    .op1{
+        margin-top: 12vh;
+        margin-left: 3vw;
+    }
+
+    .op2{
+        margin-top: 12vh;
+        margin-left: 27vw;
+    }
+
+    .op3{
+        margin-top: 12vh;
+        margin-left: 57vw;
+    }
+
+    .op4{
+        margin-top: 12vh;
+        margin-left: 77vw;
+    }
+
+    .heading{
+        font-size: 3vh;
+        margin-left: 20vw;
+    }
+
+    .codingicon img{
+        height: 10vh;
+        width: 20vw;
+        margin-top: 40vh;
+        margin-left: 15vw;
+    }
+
+    .codingtext{
+        margin-top: 50vh;
+        margin-left: 13vw;
+    }
+
+    .singicon img{
+        height: 10vh;
+        width: 20vw;
+        margin-top: 40vh;
+        margin-left: 60vw;
+    }
+
+    .singtext{
+        margin-top: 50vh;
+        margin-left: 57vw;
+    }
+
+    .gamingicon img{
+        height: 10vh;
+        width: 20vw;
+        margin-top: 70vh;
+        margin-left: 15vw;
+    }
+
+    .gamingtext{
+        margin-top: 80vh;
+        margin-left: 13vw;
+    }
+
+    .musingicon img{
+        height: 10vh;
+        width: 20vw;
+        margin-top: 70vh;
+        margin-left: 60vw;
+    }
+
+    .musingtext{
+        margin-top: 80vh;
+        margin-left: 57vw;
+    }
+    
+}
+
