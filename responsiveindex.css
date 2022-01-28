@@ -1,9 +1,9 @@
-@media screen and (max-width:1300px) {
+/* @media screen and (max-width:1300px) {
 
     .pic{
-        position:absolute;
+        position:absolute; */
         /* margin-top: 0.1vh;
-        margin-left: 1vw; */
+        margin-left: 1vw;
     }
 
     .pic img{
@@ -39,7 +39,7 @@
         margin-left: 55vw;
     }
     
-}
+} */
 
 @media screen and (max-width:500px) {
 
@@ -207,7 +207,7 @@
     
 }
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1300px) {
 
     .pic{
         position:absolute;

@@ -157,7 +157,7 @@
     }
 }
 
-@media screen and (max-width:1300px) {
+/* @media screen and (max-width:1300px) {
 
 
 
@@ -181,7 +181,7 @@
         margin-left: 77vw;
     } */
 
-    .heading{
+    /* .heading{
         font-size: 3vh;
         margin-left: 20vw;
         margin-top: 20vh;
@@ -234,11 +234,11 @@
         margin-top: 80vh;
         margin-left: 73vw;
     }
-}
+} */ 
 
 
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1300px) {
 
 
 
